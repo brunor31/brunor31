@@ -7,4 +7,26 @@
 
 ### About me
 
-I'm a full-stack developer.
+I'm a full-stack developer at DBC Company, I'm 24 years old.
+
+# I'm Learning
+<div>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain-wordmark.svg" width="40" height="40"/> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original-wordmark.svg" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/salesforce/salesforce-original.svg" width="40" height="40"/>
+</div>          
+          
+# I'm Enthusiast
+<div>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="40" height="40"/>
+</dv>
+ 
+<div>
+<br>
+<a href="https://github.com/brunor31">
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=brunor31&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+</div>
+  
+ 
