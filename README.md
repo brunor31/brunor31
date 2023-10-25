@@ -6,6 +6,7 @@
 
 
 ### I'm Bruno!
+##
 
 - 👩‍💻 Software Enginner @[DBC Company](https://www.dbccompany.com.br/)
 - 🎓 Systems Analysis and Development student
@@ -13,6 +14,8 @@
 - 💡 Love a good challenge
 
 <div>
+ 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="40" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain-wordmark.svg" width="40" height="40"/> 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/> 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original-wordmark.svg" width="40" height="40"/>
