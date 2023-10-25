@@ -5,8 +5,7 @@
 [![Gmail Badge](https://img.shields.io/badge/-brunoroliveiira@gmail.com-6633cc?style=flat-square&logo=Gmail&logoColor=white&link=mailto:brunoroliveiira@gmail.com)](mailto:brunoroliveiira@gmail.com)
 
 
-### I'm Bruno!
-##
+## I'm Bruno!
 
 - 👩‍💻 Software Enginner @[DBC Company](https://www.dbccompany.com.br/)
 - 🎓 Systems Analysis and Development student
