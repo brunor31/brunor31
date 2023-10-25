@@ -6,6 +6,7 @@
 
 
 ### I'm Bruno!
+<br>
 
 <div>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain-wordmark.svg" width="40" height="40"/> 
