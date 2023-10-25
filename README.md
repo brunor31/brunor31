@@ -8,6 +8,10 @@
 ### I'm Bruno!
 
 - 👩‍💻 Software Enginner @[DBC Company](https://www.dbccompany.com.br/)
+- 🎓 Computer Science Student
+- 🎥 Tech content producer, I create programming tutorials on my [YouTube Channel](https://www.youtube.com/@kipperdev) and share informative content on my [Instagram](https://www.instagram.com/kipper.dev/).
+- 🌐 Passionate about web development
+- 💡 Love a good challenge
 
 <div>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain-wordmark.svg" width="40" height="40"/> 
