@@ -7,7 +7,7 @@
 
 ### I'm Bruno!
 
-- 👩‍💻 Software Enginner @[DBC Company](https://www.dbccompany.com.br/)
+- 👩‍💻 Software Enginner @[Effecti - Tecnologia para licitantes](https://www.effecti.com.br/)
 - 🎓 Systems Analysis and Development student
 - 🌐 Passionate about web development
 - 💡 Love a good challenge
