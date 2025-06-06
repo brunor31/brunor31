@@ -8,7 +8,7 @@
 ### I'm Bruno!
 
 - 👩‍💻 Software Enginner @[Effecti - Tecnologia para licitantes](https://www.effecti.com.br/)
-- 🎓 Systems Analysis and Development student
+- 🎓 Systems Analysis
 - 🌐 Passionate about web development
 - 💡 Love a good challenge
 
