@@ -4,27 +4,12 @@
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/fagnerpsantos)](https://twitter.com/BRodriiguess_)
 [![Gmail Badge](https://img.shields.io/badge/-brunoroliveiira@gmail.com-6633cc?style=flat-square&logo=Gmail&logoColor=white&link=mailto:brunoroliveiira@gmail.com)](mailto:brunoroliveiira@gmail.com)
 
-
-### I'm Bruno!
-
+## My name is Bruno Rodrigues
+(Java | Spring Boot | AWS | Vue.Js | Typescript | Javascript | HTML | CSS ) 🚀
 - 👩‍💻 Software Enginner @[Effecti - Tecnologia para licitantes](https://www.effecti.com.br/)
 - 🎓 Systems Analysis
 - 🌐 Passionate about web development
 - 💡 Love a good challenge
-
-#
-<div>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="40" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="40" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain-wordmark.svg" width="40" height="40"/> 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/> 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original-wordmark.svg" width="40" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/>
-</dv>
  
 <div>
 <br>
