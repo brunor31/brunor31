@@ -6,7 +6,7 @@
 
 ## My name is Bruno Rodrigues
 (Java | Spring Boot | AWS | Vue.Js | Typescript | Javascript | HTML | CSS ) 🚀
-- 👩‍💻 Software Enginner @[Effecti - Tecnologia para licitantes](https://www.contabilizei.com.br/)
+- 👩‍💻 Software Enginner @[Contabilizei](https://www.contabilizei.com.br/)
 - 🎓 Systems Analysis
 - 🌐 Passionate about web development
 - 💡 Love a good challenge
