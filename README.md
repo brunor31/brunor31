@@ -6,7 +6,7 @@
 
 ## My name is Bruno Rodrigues
 (Java | Spring Boot | AWS | Vue.Js | Typescript | Javascript | HTML | CSS ) 🚀
-- 👩‍💻 Software Enginner @[Conexa Saúde](/https://www.conexasaude.com.br/)
+- 👩‍💻 Software Enginner @[Conexa Saúde](https://www.conexasaude.com.br/)
 - 🎓 Systems Analysis
 - 🌐 Passionate about web development
 - 💡 Love a good challenge
